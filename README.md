@@ -10,5 +10,4 @@ Technologies Used <br>
 Programming Language: Java <br>
 Database: MySQL (or any supported database) <br>
 ORM Framework: Hibernate <br>
-Build Tool: Maven <br>
 IDE: Eclipse  <br>
